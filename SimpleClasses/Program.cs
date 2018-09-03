@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace SimpleClasses
 {
+    //Keep in mind that classes may represent intangible things like a connection to
+    //the internet, or a buffer data stream, etc...
+    //Think about learning how to create your own class library 
     class Program
     {
         static void Main(string[] args)
